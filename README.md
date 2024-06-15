@@ -11,6 +11,7 @@ This is a MERN Stack application designed for workout management. It provides th
 - **List Workouts:** Users can view all their recorded workouts.
 - **Create Workout:** Users can add a new workout by providing a title (name), the number of repetitions, and the total weight.
 - **Delete Workout:** Users have the option to remove a specific workout from the list.
+
 The MERN stack consists of MongoDB, Express.js, React, and Node.js, which together create a robust and dynamic application. This project aims to help users effectively manage and track their workouts.
 
 ## ⚙️ Installation and Setup
