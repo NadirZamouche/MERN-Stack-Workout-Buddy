@@ -17,17 +17,31 @@ The MERN stack consists of MongoDB, Express.js, React, and Node.js, which togeth
 ## ⚙️ Installation and Setup
 * In order to get started:
 ```sh
-git clone https://github.com/NadirZamouche/Weather-Broadcast
+git clone https://github.com/NadirZamouche/MERN-Stack-Workout-Buddy
 ```
 ```sh
-cd Weather-Broadcast
+cd backend/
 ```
-* Install dependencies:
+* Install dependencies for the backend folder:
 ```sh
 npm install
 ```
-* Start the development server:
+* Start the backend server :
 ```sh
 npm start
 ```
-This will start the app on http://localhost:3000.
+This will start the backend server on http://localhost:4000.
+```sh
+cd frontend/
+```
+* Install dependencies for the backend folder:
+```sh
+npm install
+```
+* Start the frontend server :
+```sh
+npm start
+```
+This will start the frontend server on http://localhost:3000.
+
+And you're good to Go!
